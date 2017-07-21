@@ -10,10 +10,10 @@ video drivers for your card.
 
 * Windows 8 or 8.1
 * Visual Studio 2015 or Visual Studio 2017
-* [Python 2.7](https://www.python.org/downloads/release/python-2713/)
+* [Python 3.6](https://www.python.org/downloads/release/python-362/)
 * If you are on Windows 8, you will also need the [Windows 8.1 SDK](http://msdn.microsoft.com/en-us/windows/desktop/bg162891)
 
-Ensure Python is in your PATH (`C:\Python27\`).
+Ensure Python is in your PATH (`C:\Python36\`).
 
 I recommend using [Cmder](http://cmder.net/) for git and command
 line usage.
